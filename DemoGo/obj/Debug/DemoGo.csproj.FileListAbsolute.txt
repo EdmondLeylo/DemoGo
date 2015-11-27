@@ -1,0 +1,5 @@
+c:\users\edmond\documents\visual studio 2013\Projects\DemoGo\DemoGo\bin\DemoGo.dll.config
+c:\users\edmond\documents\visual studio 2013\Projects\DemoGo\DemoGo\bin\DemoGo.dll
+c:\users\edmond\documents\visual studio 2013\Projects\DemoGo\DemoGo\bin\DemoGo.pdb
+c:\users\edmond\documents\visual studio 2013\Projects\DemoGo\DemoGo\obj\Debug\DemoGo.dll
+c:\users\edmond\documents\visual studio 2013\Projects\DemoGo\DemoGo\obj\Debug\DemoGo.pdb
