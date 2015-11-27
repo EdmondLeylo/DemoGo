@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
     
-        <asp:ImageButton ID="ImageButton1" runat="server" Height="182px" ImageUrl="~/images/button.jpg" Width="192px" />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Press me!" />
         <br />
         <asp:Image ID="Image1" runat="server" BackColor="Black" BorderColor="Black" ForeColor="Black" Height="500px" ImageAlign="Middle" ImageUrl="~/images/1.png" Width="500px" />
     

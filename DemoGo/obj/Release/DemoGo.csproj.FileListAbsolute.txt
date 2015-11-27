@@ -1,0 +1,6 @@
+C:\Users\edmond\Desktop\DemoGo\DemoGo\bin\DemoGo.dll.config
+C:\Users\edmond\Desktop\DemoGo\DemoGo\bin\DemoGo.dll
+C:\Users\edmond\Desktop\DemoGo\DemoGo\bin\DemoGo.pdb
+C:\Users\edmond\Desktop\DemoGo\DemoGo\obj\Release\DemoGo.csprojResolveAssemblyReference.cache
+C:\Users\edmond\Desktop\DemoGo\DemoGo\obj\Release\DemoGo.dll
+C:\Users\edmond\Desktop\DemoGo\DemoGo\obj\Release\DemoGo.pdb
