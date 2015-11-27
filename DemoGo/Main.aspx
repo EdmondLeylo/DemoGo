@@ -7,6 +7,8 @@
     <style>
         .container {
             width:80%;
+            align-content:center;
+            align-self:center;
         }
         .outside {
             background-color:beige;
@@ -19,13 +21,13 @@
     <div id="outside">
         <div id="container">
     
-        <center><asp:Label ID="Label1" runat="server" Font-Names="Broadway" Font-Size="XX-Large" ForeColor="#993300" Text="Press the button!"></asp:Label>
+        <asp:Label ID="Label1" runat="server" Font-Names="Broadway" Font-Size="XX-Large" ForeColor="#993300" Text="Press the button!"></asp:Label>
         <br />
     
         <asp:ImageButton ID="ImageButton1" runat="server" Height="182px" ImageUrl="~/images/button.jpg" Width="192px" OnClick="ImageButton1_Click" />
         <br />
         <asp:Image ID="Image1" runat="server" BackColor="Black" BorderColor="Black" ForeColor="Black" Height="500px" ImageAlign="Middle" ImageUrl="~/images/1.png" Width="500px" />
-       </center>
+       
          </div>
     </div>
     </form>
