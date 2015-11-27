@@ -19,13 +19,14 @@
     <div id="outside">
         <div id="container">
     
-        <asp:Label ID="Label1" runat="server" Font-Names="Broadway" Font-Size="XX-Large" ForeColor="#993300" Text="Press the button!"></asp:Label>
+        <center><asp:Label ID="Label1" runat="server" Font-Names="Broadway" Font-Size="XX-Large" ForeColor="#993300" Text="Press the button!"></asp:Label>
         <br />
     
         <asp:ImageButton ID="ImageButton1" runat="server" Height="182px" ImageUrl="~/images/button.jpg" Width="192px" OnClick="ImageButton1_Click" />
         <br />
         <asp:Image ID="Image1" runat="server" BackColor="Black" BorderColor="Black" ForeColor="Black" Height="500px" ImageAlign="Middle" ImageUrl="~/images/1.png" Width="500px" />
-        </div>
+       </center>
+         </div>
     </div>
     </form>
 </body>
