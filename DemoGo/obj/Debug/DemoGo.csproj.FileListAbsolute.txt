@@ -3,3 +3,9 @@ c:\users\edmond\documents\visual studio 2013\Projects\DemoGo\DemoGo\bin\DemoGo.d
 c:\users\edmond\documents\visual studio 2013\Projects\DemoGo\DemoGo\bin\DemoGo.pdb
 c:\users\edmond\documents\visual studio 2013\Projects\DemoGo\DemoGo\obj\Debug\DemoGo.dll
 c:\users\edmond\documents\visual studio 2013\Projects\DemoGo\DemoGo\obj\Debug\DemoGo.pdb
+C:\Users\edmond\Desktop\DemoGo\DemoGo\bin\DemoGo.dll.config
+C:\Users\edmond\Desktop\DemoGo\DemoGo\bin\DemoGo.dll
+C:\Users\edmond\Desktop\DemoGo\DemoGo\bin\DemoGo.pdb
+C:\Users\edmond\Desktop\DemoGo\DemoGo\obj\Debug\DemoGo.csprojResolveAssemblyReference.cache
+C:\Users\edmond\Desktop\DemoGo\DemoGo\obj\Debug\DemoGo.dll
+C:\Users\edmond\Desktop\DemoGo\DemoGo\obj\Debug\DemoGo.pdb

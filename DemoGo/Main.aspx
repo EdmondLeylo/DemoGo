@@ -13,13 +13,16 @@
         .outside {
             background-color:beige;
         }
+        .auto-style1 {
+            margin-left: 480px;
+        }
     </style>
     <title></title>
 </head>
 <body>
     <form id="form1" runat="server">
     <div id="outside">
-        <div id="container">
+        <div id="container" class="auto-style1">
     
         <asp:Label ID="Label1" runat="server" Font-Names="Broadway" Font-Size="XX-Large" ForeColor="#993300" Text="Press the button!"></asp:Label>
         <br />
@@ -28,7 +31,7 @@
         <br />
         <asp:Image ID="Image1" runat="server" BackColor="Black" BorderColor="Black" ForeColor="Black" Height="500px" ImageAlign="Middle" ImageUrl="~/images/1.png" Width="500px" />
        
-         </div>
+        </div>
     </div>
     </form>
 </body>
