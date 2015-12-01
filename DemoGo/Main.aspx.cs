@@ -16,7 +16,10 @@ namespace DemoGo
 
         protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
         {
-            Image1.ImageUrl = "~/images/2.png";
+            Image1.ImageUrl = "~/images/2.jpg";
         }
+
+
+
     }
 }

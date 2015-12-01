@@ -6,31 +6,25 @@
 <head runat="server">
     <style>
         .container {
+            position:relative;
             width:80%;
-            align-content:center;
-            align-self:center;
+            
         }
         .outside {
-            background-color:beige;
+            background-color:red;
         }
-        .auto-style1 {
-            margin-left: 480px;
-        }
-    </style>
+        </style>
     <title></title>
 </head>
 <body>
     <form id="form1" runat="server">
     <div id="outside">
-        <div id="container" class="auto-style1">
-    
-        <asp:Label ID="Label1" runat="server" Font-Names="Broadway" Font-Size="XX-Large" ForeColor="#993300" Text="Press the button!"></asp:Label>
+        <div id="container">
+        <center><asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="XX-Large" ForeColor="#993300" Text="Press the button!"></asp:Label></center>
         <br />
-    
-        <asp:ImageButton ID="ImageButton1" runat="server" Height="182px" ImageUrl="~/images/button.jpg" Width="192px" OnClick="ImageButton1_Click" />
+        <center><asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/images/button.jpg" OnClick="ImageButton1_Click" /></center>
         <br />
-        <asp:Image ID="Image1" runat="server" BackColor="Black" BorderColor="Black" ForeColor="Black" Height="500px" ImageAlign="Middle" ImageUrl="~/images/1.png" Width="500px" />
-       
+        <center><asp:Image ID="Image1" runat="server" Height="400px" ImageUrl="~/images/1.png" Width="400px" /></center>
         </div>
     </div>
     </form>
