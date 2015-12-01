@@ -19,7 +19,7 @@
 <body>
     <form id="form1" runat="server">
     <div id="outside">
-        <div id="container" width="80%" background-color="red" dir="rtl">
+        <div id="container" dir="rtl">
         <center><asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="XX-Large" ForeColor="#993300" Text="Press the button!"></asp:Label></center>
         <br />
         <center><asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/images/button.jpg" OnClick="ImageButton1_Click" /></center>
