@@ -16,7 +16,7 @@ namespace DemoGo
 
         protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
         {
-            Label2.Text = (Convert.ToInt32(Label2.Text) + 1).ToString(); ;
+            Label2.Text = (Convert.ToInt32(Label2.Text) + 1).ToString(); 
         }
 
 
