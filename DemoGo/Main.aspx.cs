@@ -16,7 +16,7 @@ namespace DemoGo
 
         protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
         {
-            Image1.ImageUrl = "~/images/3.jpg";
+            Label2.Text = (Convert.ToInt32(Label2.Text) + 1).ToString(); ;
         }
 
 
