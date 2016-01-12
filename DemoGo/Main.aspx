@@ -25,7 +25,7 @@
         <center><asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/images/button.jpg" OnClick="ImageButton1_Click" /></center>
         <br />
         <center>
-            <asp:Label ID="Label2" runat="server" Font-Size="XX-Large" Text="0"></asp:Label>
+            <asp:Label ID="Label2" runat="server" Font-Size="300pt" Text="0"></asp:Label>
             </center>
         </div>
     </div>
