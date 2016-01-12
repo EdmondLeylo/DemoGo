@@ -14,10 +14,6 @@ namespace DemoGo
 
         }
 
-        protected void Button1_Click(object sender, EventArgs e)
-        {
-            Label2.Text = (Convert.ToInt32(Label2.Text) - 1).ToString(); 
-        }
 
 
 

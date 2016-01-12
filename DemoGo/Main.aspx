@@ -20,15 +20,18 @@
     <form id="form1" runat="server">
     <div id="outside">
         <div id="container" width="80%" background-color="red" dir="rtl">
-        <center><asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="XX-Large" ForeColor="#993300" Text="Press the button!"></asp:Label></center>
-        <br />
         <center>
-            <asp:Button ID="Button1" runat="server" Font-Bold="True" OnClick="Button1_Click" Text="!!This Button !!" />
+            <br />
+            <br />
+            <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="XX-Large" Text="This Website"></asp:Label>
+            <br />
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/images/2.png" />
+            <br />
             </center>
         <br />
-        <center>
-            <asp:Label ID="Label2" runat="server" Font-Size="300pt" Text="0"></asp:Label>
-            </center>
+        <center></center>
+        <br />
+        <center></center>
         </div>
     </div>
     </form>
