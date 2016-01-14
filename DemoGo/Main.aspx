@@ -25,7 +25,7 @@
             <br />
             <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="XX-Large" Text="This Website"></asp:Label>
             <br />
-            <asp:Image ID="Image1" runat="server" ImageUrl="~/images/2.png" />
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/images/3.jpg" />
             <br />
             </center>
         <br />
